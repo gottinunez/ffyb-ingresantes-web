@@ -1,6 +1,9 @@
 import { createTheme, ThemeOptions, ThemeProvider } from "@mui/material";
 import { ReactNode } from "react";
 const options: ThemeOptions = {
+  typography: {
+    fontFamily: 'Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif',
+  },
   palette: {
     primary: {
       light: "#f6f7f9",

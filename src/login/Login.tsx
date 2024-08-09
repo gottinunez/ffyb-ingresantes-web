@@ -47,7 +47,7 @@ const Login = () => {
         padding: "15px",
         borderRadius: "5px",
         boxShadow:4,
-        backgroundColor:"#fff9"
+        backgroundColor:"#fff8"
       }}>
         <Typography variant={"h6"} fontStyle="Roboto" marginLeft={"10px"} color={"white"}>
           INICIAR SESION
